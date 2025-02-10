@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dublin_core xmlns="http://www.openarchives.org/OAI/2.0/oai_dc/"
+             xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Annual accumulated precipitation in Spain and CCAA from 1979 to 2024</dc:title>
+    <dc:creator>Acevedo García, Adrián</dc:creator>
+    <dc:creator>Cómbita Niño, Johana</dc:creator>
+    <dc:creator>Pérez González, Eduardo</dc:creator>
+    <dc:creator>Nasta, Mihai Cristian</dc:creator>
+    <dc:creator>Sainz Guerra, Jose Adolfo</dc:creator>
+    <dc:creator>VILLA VIARD, OSCAR SANTIAGO</dc:creator>
+    <dc:subject>Spain</dc:subject>
+    <dc:subject>Annual</dc:subject>
+    <dc:subject>Mean</dc:subject>
+    <dc:subject>Atmospheric precipitation</dc:subject>
+    <dc:description>Annual mean accumulated precipitation in Spain and CCAA from 1979 to 2024 calculated from ERA5 Reanalysis</dc:description>
+    <dc:publisher>Zenodo</dc:publisher>
+    <dc:contributor>Instituto de Hidráulica Ambiental de la Universidad de Cantabria "IH Cantabria"</dc:contributor>
+    <dc:contributor>University of the Coast</dc:contributor>
+    <dc:contributor>Universidad de Cantabria</dc:contributor>
+    <dc:date>2025-02-05</dc:date>
+    <dc:type>Dataset</dc:type>
+    <dc:format>text/csv</dc:format>
+    <dc:identifier>https://sandbox.zenodo.org/records/162490</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:rights>Creative Commons Attribution 4.0 International</dc:rights>
+</dublin_core>
